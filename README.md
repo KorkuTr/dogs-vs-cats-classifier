@@ -37,7 +37,7 @@ Projeyi yerel makinenizde çalışır duruma getirmek için şu basit adımları
 1. Depoyu Klonlayın
 Bash
 
-git clone https://github.com/KULLANICI_ADINIZ/dogs-vs-cats-classifier.git
+git clone https://github.com/KorkuTr/dogs-vs-cats-classifier.git
 
 cd dogs-vs-cats-classifier
 
@@ -48,22 +48,14 @@ python -m venv venv
 source venv/bin/activate  # Linux/macOS
 # venv\Scripts\activate  # Windows
 
-3. Bağımlılıkları Kurun
-   
-Gerekli tüm kütüphaneler requirements.txt dosyasında listelenmiştir.
-
-Bash
-
-pip install -r requirements.txt
-
-4. Projeyi Çalıştırın
+3. Projeyi Çalıştırın
    
 Model eğitimi ve analizi için Jupyter Notebook'u başlatın:
 
 Bash
 
 jupyter notebook
-Açılan tarayıcı arayüzünde, ana analiz dosyanız olan unsupervised.ipynb (veya benzeri bir isim) dosyasını bularak içindeki hücreleri sırasıyla çalıştırın.
+Açılan tarayıcı arayüzünde, ana analiz dosyanız olan  D0gs vs C@ts Classifier.ipynb (veya benzeri bir isim) dosyasını bularak içindeki hücreleri sırasıyla çalıştırın.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Sonuçlar
 Eğitimden sonra modelimizin performans metrikleri (doğruluk, kayıp grafikleri) ilgili Notebook içinde detaylıca gösterilmiştir.
