@@ -67,5 +67,8 @@ Projenizle ilgili harika yorumlar ve pull request'ler bekliyorum. Mutlu kodlamal
 Linkler
 Çalışmanıza ait tüm Kaggle linklerini mutlaka burada görmeliyiz.
 
+
 https://www.kaggle.com/competitions/dogs-vs-cats
+
+
 https://www.kaggle.com/code/korkut61/d0gs-vs-c-ts-classifier
