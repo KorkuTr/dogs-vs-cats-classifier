@@ -75,5 +75,5 @@ Projenizle ilgili harika yorumlar ve pull request'ler bekliyorum. Mutlu kodlamal
 Linkler
 Çalışmanıza ait tüm Kaggle linklerini mutlaka burada görmeliyiz.
 
-(https://www.kaggle.com/code/korkut61/notebook63a29221fd) 
+https://www.kaggle.com/code/korkut61/d0gs-vs-c-ts-classifier
 
