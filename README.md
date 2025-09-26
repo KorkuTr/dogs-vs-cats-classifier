@@ -71,3 +71,9 @@ Eğitimden sonra modelimizin performans metrikleri (doğruluk, kayıp grafikleri
 Modelimiz, artık bir fotoğrafı gördüğünde ne bir "miyavlama" ne de bir "havlama" duymadan, görsel ipuçlarına dayanarak %X doğrulukla nihai kararını verebilir!
 
 Projenizle ilgili harika yorumlar ve pull request'ler bekliyorum. Mutlu kodlamalar!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Linkler
+Çalışmanıza ait tüm Kaggle linklerini mutlaka burada görmeliyiz.
+
+(https://www.kaggle.com/code/korkut61/notebook63a29221fd) 
+
